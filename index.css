@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(255, 226, 192, 0.733);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 3px;
+}
+
+h2{
+    text-align: center;
+}
+
+a{
+    color: lightcoral;
+    text-decoration: none;    
+}
